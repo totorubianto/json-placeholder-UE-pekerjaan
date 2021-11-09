@@ -1,0 +1,86 @@
+[
+	{
+		"occupation_id":"Belum Bekerja",
+		"occupation_en": "Unemployed"
+	},
+	{
+		"occupation_id":"Buruh",
+		"occupation_en": "Labour"
+	},
+	{
+		"occupation_id":"Freelancer",
+		"occupation_en": "Freelancer"
+	},
+	{
+		"occupation_id":"Ibu Rumah Tangga",
+		"occupation_en": "Housewife"
+	},
+	{
+		"occupation_id":"Pedagang",
+		"occupation_en": "Trader"
+	},
+	{
+		"occupation_id":"Pegawai BUMB / BUMD",
+		"occupation_en": "Employee of BUMB / BUMD"
+	},
+	{
+		"occupation_id":"Pegawai Bank",
+		"occupation_en": "Bank Employee"
+	},
+	{
+		"occupation_id":"Pegawai Jasa Keuangan",
+		"occupation_en": "Employee of Financial Services"
+	},
+	{
+		"occupation_id":"Pegawai Negeri Sipil",
+		"occupation_en": "Civil Servant"
+	},
+	{
+		"occupation_id":"Pegawai Swasta",
+		"occupation_en": "Private Employee"
+	},
+	{
+		"occupation_id":"Pejabat Lembaga Legislatif / Yudikatif / Eksekutif",
+		"occupation_en": "Government Official"
+	},
+	{
+		"occupation_id":"Pelajar / Mahasiswa",
+		"occupation_en": "Student"
+	},
+	{
+		"occupation_id":"Pengajar / Guru",
+		"occupation_en": "Teacher"
+	},
+	{
+		"occupation_id":"Pengurus Organisasi Keagamaan",
+		"occupation_en": "Administrators of Organizations / Religious Institutions"
+	},
+	{
+		"occupation_id":"Pengurus Partai Politik",
+		"occupation_en": "Political Party Administrator"
+	},
+	{
+		"occupation_id":"Pengurus Yayasan",
+		"occupation_en": "Executive Board of a Foundation"
+	},
+	{
+		"occupation_id":"Pengusaha",
+		"occupation_en": "Businessman"
+	},
+	{
+		"occupation_id":"Profesional",
+		"occupation_en": "Professional"
+	},
+	{
+		"occupation_id":"TNI / Polri",
+		"occupation_en": "Indonesia Military Army / Police"
+	},
+	{
+		"occupation_id":"Wiraswasta",
+		"occupation_en": "Entrepreneur"
+	},
+	{
+		"occupation_id":"Lain-lain",
+		"occupation_en": "Others"
+	}
+]
