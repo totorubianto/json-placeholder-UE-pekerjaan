@@ -1,4 +1,5 @@
-[
+{
+	"pekerjaan": [
 	{
 		"occupation_id":"Belum Bekerja",
 		"occupation_en": "Unemployed"
@@ -84,3 +85,5 @@
 		"occupation_en": "Others"
 	}
 ]
+
+}
